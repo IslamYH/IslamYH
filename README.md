@@ -8,7 +8,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IslamYH&label=Profile%20views&color=0e75b6&style=flat" alt="IslamYH" /> </p>
-<img align="right" alt="Coding" width="300" src="giphy.gif">
+
 
 - 📫 How to reach me **islam.yahiaoui22@gmail.com**
 <h3 align="left">Connect with me:</h3>

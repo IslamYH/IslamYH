@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm YAHIAOUI Mohamed Islam</h1>
-<h3 align="center">I am an AI graduate engineer passionate about computer science</h3>
-
+<!-- <h3 align="center">I am an AI graduate engineer passionate about computer science</h3> -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=+I+am+an+AI+engineer;+Information+Technology+graduate;+passionate+about+computer+science" alt="Typing SVG" /></a>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IslamYH&label=Profile%20views&color=0e75b6&style=flat" alt="IslamYH" /> </p>
 <img align="right" alt="Coding" width="300" src="giphy.gif">
 

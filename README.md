@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm YAHIAOUI Mohamed Islam</h1>
 <!-- <h3 align="center">I am an AI graduate engineer passionate about computer science</h3> -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=+I+am+an+AI+engineer;+Information+Technology+graduate;+passionate+about+computer+science" alt="Typing SVG" /></a>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=+I+am+an+AI+engineer;+Information+Technology+systems+engineer;+Passionate+about+computer+science" alt="Typing SVG" /></a>
 </p>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tuwid-Ashish&label=Profile%20views&color=0e75b6&style=flat" alt="iamrudhresh" /> </p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IslamYH&label=Profile%20views&color=0e75b6&style=flat" alt="IslamYH" /> </p>
 <img align="right" alt="Coding" width="300" src="giphy.gif">
 
